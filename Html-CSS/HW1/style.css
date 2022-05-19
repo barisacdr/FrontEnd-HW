@@ -1,0 +1,44 @@
+/********************** Layout **********************/
+body{
+    font-family: 'Koulen', cursive;
+    background-color:black;
+    text-align:center;
+}
+
+#aquamarin {
+    color:aquamarine;
+}
+
+.classes {
+    color:blanchedalmond;
+}
+a h1,h2{
+    color: white;
+    text-align: center;
+}
+h3 {
+    color:rgb(0, 113, 189);
+}
+.imdb {
+    color: rgb(249, 226, 18);
+}
+
+p {
+    color: rgb(138, 236, 25);
+}
+
+img {
+    align-self: center;
+    width: 250px;
+   
+}
+.bonus{
+    color:darkorange;
+
+}
+
+.link {
+    color: crimson;
+    font-size: 30px;
+}
+/********************** UI **********************/
